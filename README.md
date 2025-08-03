@@ -1,5 +1,5 @@
 # Hola, mi nombre es Felipe Moraga Rojas 👋
-### Freelance Java & Android Developer
+### Freelance Python & Java Developer
 
 Soy ingeniero de software profesional desde hace más de 13 años.
 
