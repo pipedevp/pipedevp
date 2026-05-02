@@ -1,7 +1,7 @@
 # Hola, mi nombre es José Felipe Moraga Rojas 👋
 ### Python & Java Developer
 
-Soy ingeniero de software profesional desde hace más de 13 años.
+Ingeniero de software.
 
 En 2017 dejé mi trabajo, era una consultora de tecnologia y me fui a viajar por el mundo en bicicleta [**Mi sitio de viajes**](https://www.instagram.com/felipe.moragar/), en el retorno me reencontré con crecer como profesional dentro de la industria del desarrollo de software en el área mobile.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, estudiando el lenguaje nativo de android.
