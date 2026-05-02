@@ -1,5 +1,5 @@
 # Hola, mi nombre es José Felipe Moraga Rojas 👋
-### Freelance Python & Java Developer
+### Python & Java Developer
 
 Soy ingeniero de software profesional desde hace más de 13 años.
 
