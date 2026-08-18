@@ -1,5 +1,5 @@
 # Hola, mi nombre es José Felipe Moraga Rojas 👋
-### Python & Java Developer
+### Python & SQL
 
 Ingeniero de software.
 
