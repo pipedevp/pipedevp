@@ -1,5 +1,5 @@
 # Hola, mi nombre es José Felipe Moraga Rojas 👋
-### Python & SQL
+### Python - SQL - Power BI
 
 Ingeniero de software.
 
