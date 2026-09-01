@@ -1,10 +1,13 @@
 # Hola, mi nombre es José Felipe Moraga Rojas 👋
 ### Python - SQL - Power BI
 
-Ingeniero de software.
-
-En 2017 dejé mi trabajo, era una consultora de tecnologia y me fui a viajar por el mundo en bicicleta [**Mi sitio de viajes**](https://www.instagram.com/felipe.moragar/), en el retorno me reencontré con crecer como profesional dentro de la industria del desarrollo de software en el área mobile.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, estudiando el lenguaje nativo de android.
+Ingeniero en Informática con experiencia en desarrollo de software en proyectos de los sectores público y privado.
+ 
+Un curso de herramientas digitales para la gestión hídrica en la agricultura me abrió una puerta que no esperaba: ahí descubrí el potencial real que tienen los datos para resolver problemas del mundo real, y esa curiosidad por investigar problemas y buscar soluciones basadas en información es lo que hoy me trae al análisis de datos. El agua, además, terminó convirtiéndose en pasión personal a través del kayak.
+ 
+Hoy estoy fortaleciendo mis competencias en el análisis de datos con herramientas de toma de decisiones basada en datos, complementando mi formación con una certificación de Análisis de Datos de Talento Digital Chile y otra certificación de Google Data Analytics. Me interesa aplicar la tecnología para resolver problemas reales y generar valor a través de la información.
+ 
+Abierto a conectar con profesionales y organizaciones en tecnología, datos, transformación digital y agricultura inteligente.
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
