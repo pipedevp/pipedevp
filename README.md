@@ -1,4 +1,4 @@
-# Hola, mi nombre es José Felipe Moraga Rojas 👋
+# Hola, mi nombre es José Felipe Moraga Rojas
 ### Python - SQL - Power BI
 
 Ingeniero en Informática con experiencia en desarrollo de software en proyectos de los sectores público y privado.
